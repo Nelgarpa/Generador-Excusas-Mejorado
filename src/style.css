@@ -1,0 +1,40 @@
+@import "bootstrap/dist/css/bootstrap.min.css";
+
+body{
+    background: white;
+}
+
+.titulo{
+    color: black;
+    text-align: center;
+}
+
+.center{
+    text-align: center;
+}
+
+.content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: white;
+  }
+  
+
+  body {
+    background: linear-gradient(45deg, #ff6b6b, #f06595, #7a2fff, #64d7ff);
+    background-size: 400% 400%;
+    animation: gradientAnimation 5s ease infinite;
+    height: 100%;
+  }
+  
+
+  @keyframes gradientAnimation {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+  }
+
+  
