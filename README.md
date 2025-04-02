@@ -40,13 +40,15 @@ The main goal is to apply best practices in web development using **HTML**, **CS
 1. Clona este repositorio:
    ```bash
    git clone https://github.com/Nelgarpa/Generador-Excusas-Mejorado.git
-   
+
 ---
 
    
 ## 📌 Project status
 
 ✅ Project completed as a practice exercise. Open to visual improvements or vocabulary expansion.
+
+
 ---
 
 ## 🙋‍♀️ About me
