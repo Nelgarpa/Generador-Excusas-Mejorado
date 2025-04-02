@@ -1,47 +1,60 @@
-# Hola Mundo con Vanilla JS
+# 🧠 Generador de Excusas Mejorado
 
-Empieza a programar un sitio web JS/HTML/CSS en 30 segundos abriendo esta plantilla con nuestro puente de [One-Click Coding](https://s.4geeks.com/start?repo=https://github.com/4GeeksAcademy/vanillajs-hello) o localmente en tu computador.
+Este proyecto es una versión optimizada de una aplicación web que genera frases aleatorias combinando pronombres, adjetivos y sustantivos.
 
-## Antes de empezar
+El objetivo principal es aplicar buenas prácticas de desarrollo web utilizando **HTML**, **CSS** y **JavaScript**, reforzando además el manejo del **DOM** y la organización del código.
 
-Una vez tu editor de codigo este abierto, instala los paquetes escribiendo: `npm install`.
+---
 
-### ¿Cómo ejecuto mi sitio web para ver los cambios en vivo?
+## 💻 Tecnologías utilizadas
 
-Escribe en la línea de comandos `$ npm run start` y escribe localhost en el navegador.
+- HTML5  
+- CSS3  
+- JavaScript  
+- Bootstrap (opcional)  
+- Vite (para el entorno de desarrollo)
 
-### ¿Dónde escribo mi código?
+---
 
-Depende del lenguaje, pero tienes `./src/app.js`, `./src/style.css` y `./src/index.html` respectivamente. Puedes agregar nuevos `.html` como desees, solo asegúrate de importarlo en el `app.js`.
+## ✨ Funcionalidades
 
-> Nota: recuerda que el flujo de trabajo de JS comienza dentro de `window.onload`.
+- Generación de excusas aleatorias al cargar la página  
+- Estructura clara y reutilizable con funciones limpias  
+- Visualización de resultados en consola y en la interfaz web  
+- Mejora visual con estilos y estructura semántica
 
-## Resolución de problemas
+---
 
-### No veo mis cambios...
+## 📁 Estructura del proyecto
 
-Cada vez que cambies cualquier archivo dentro de la carpeta `./src`, la URL pública del sitio web se actualizará automáticamente (es un proceso llamado hot deploy). Recuerda también actualizar limpiando la caché (`command+shift+r` en Mac, `control+shift+r` en PC y Linux).
+- `src/index.html` → Página principal  
+- `src/app.js` → Lógica del generador  
+- `src/style.css` → Estilos personalizados  
+- `assets/img` → Imágenes y recursos  
+- `vite.config.js` → Configuración del entorno con Vite
 
-### ¿Cómo incluyo más imágenes en mi proyecto?
+---
 
-Agrégalas dentro de la carpeta `./src/assets/img` y luego impórtalas desde cualquiera de tus archivos JS. Ejemplo: `import "../assets/img/rigo-baby.jpg";`.
+## 🚀 Cómo ejecutarlo
 
-### ¿Cómo incluyo más archivos JS?
+1. Clona este repositorio:
+   ```bash
+   git clone https://github.com/Nelgarpa/Generador-Excusas-Mejorado.git
+---
 
-Simplemente agrega los archivos en la carpeta src e importa los archivos/variables en tu app.js. Ejemplo: `import myVar from "./file2.js"`.
+## 📌 Estado del proyecto
 
-### ¿Cómo publico el sitio web?
+✅ Proyecto finalizado como práctica. Abierto a mejoras visuales o ampliación del vocabulario.
 
-Esta plantilla es 100% compatible con el alojamiento gratuito de GitHub Pages. Publica tu sitio web ejecutando:
+---
 
-```bash
-$ npm run deploy
-```
+## 🙋‍♀️ Sobre mí
 
-¡Muy fácil y en solo un paso! Sube a tu rama __main__ y utiliza el alojamiento gratuito que viene con [GitHub Pages](https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/#enabling-github-pages-to-publish-your-site-from-master-or-gh-pages), el proyecto está listo para ser publicado. Recuerda elegir ejecutar la Página de GitHub desde tu rama principal.
+Desarrolladora en formación, finalizando el ciclo FP DAM y bootcamp Full Stack en 4Geeks Academy.  
+📫 [Conectemos en LinkedIn](https://www.linkedin.com/in/nelcy-garc%C3%ADa-56b97111b/)
 
-### Gracias
+---
 
-Esta plantilla fue creada como parte del [curso de programacion](https://4geeksacademy.com/es/curso-de-programacion-desde-cero?lang=es) de 4Geeks Academy por [Alejandro Sanchez](https://twitter.com/alesanchezr) y muchos otros contribuyentes. Descubre más sobre nuestro [Curso de Desarrollador Full Stack](https://4geeksacademy.com/es/coding-bootcamps/desarrollador-full-stack?lang=es), [Bootcamp de Ciencia de Datos](https://4geeksacademy.com/es/coding-bootcamps/curso-datascience-machine-learning?lang=es) o [Curso de Ciberseguridad](https://4geeksacademy.com/es/coding-bootcamps/curso-ciberseguridad?lang=es).
+## 📝 Créditos
 
-Puedes encontrar otras plantillas y recursos como este en la [página de GitHub de la escuela](https://github.com/4geeksacademy/).
+Este proyecto fue desarrollado como parte del proceso de aprendizaje en el bootcamp Full Stack de [4Geeks Academy](https://4geeksacademy.com/), con personalización y mejoras propias aplicadas al diseño, estructura o funcionalidad.
