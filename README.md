@@ -37,24 +37,27 @@ The main goal is to apply best practices in web development using **HTML**, **CS
 
 ## 🚀 How to run
 
-
 1. Clona este repositorio:
    ```bash
    git clone https://github.com/Nelgarpa/Generador-Excusas-Mejorado.git
+   
 ---
 
    
 ## 📌 Project status
+
 ✅ Project completed as a practice exercise. Open to visual improvements or vocabulary expansion.
 ---
 
 ## 🙋‍♀️ About me
+
 I'm a junior developer currently finishing my studies in Multiplatform Application Development (FP DAM) and enhancing my skills through a Full Stack bootcamp at 4Geeks Academy.
 📫 Connect with me on LinkedIn
 
 ---
 
 ## 📝 Credits
+
 This project was developed as part of the learning process at the Full Stack bootcamp at 4Geeks Academy, with personal customizations and improvements applied to design, structure, and functionality.
 
 ---
