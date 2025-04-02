@@ -37,10 +37,10 @@ The main goal is to apply best practices in web development using **HTML**, **CS
 
 ## 🚀 How to run
 
-Clone this repository:
-```bash
-git clone https://github.com/Nelgarpa/Generador-Excusas-Mejorado.git
-```markdown
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/Nelgarpa/Generador-Excusas-Mejorado.git
 ---
 
    
@@ -50,11 +50,11 @@ git clone https://github.com/Nelgarpa/Generador-Excusas-Mejorado.git
 
 ## 🙋‍♀️ About me
 I'm a junior developer currently finishing my studies in Multiplatform Application Development (FP DAM) and enhancing my skills through a Full Stack bootcamp at 4Geeks Academy.
-📫 [Conectemos en LinkedIn](https://www.linkedin.com/in/nelcy-garc%C3%ADa-56b97111b/)
-
+📫 Connect with me on LinkedIn
 
 ---
 
 ## 📝 Credits
+This project was developed as part of the learning process at the Full Stack bootcamp at 4Geeks Academy, with personal customizations and improvements applied to design, structure, and functionality.
 
-This project was developed as part of the learning process at the **Full Stack bootcamp at [4Geeks Academy](https://4geeksacademy.com/)**, with personal customizations and improvements applied to design, structure, and functionality.
+---
