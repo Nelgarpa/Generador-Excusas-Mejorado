@@ -1,49 +1,58 @@
-<!-- hide -->
-# Hello World with Vanilla JS
+# 🧠 Improved Excuse Generator
 
-> 🇪🇸 [Spanish version of this readme is available](./README.es.md).
-<!-- endhide -->
-Start coding a JS/HTML/CSS website in 30 seconds by opening this template using 4Geeks' [One-Click Coding](https://s.4geeks.com/start?repo=https://github.com/4GeeksAcademy/vanillajs-hello) or locally on your computer.
+This project is an optimized version of a web application that generates random excuses by combining pronouns, adjectives, and nouns.
 
-## Before you begin
+The main goal is to apply best practices in web development using **HTML**, **CSS**, and **JavaScript**, while also reinforcing **DOM manipulation** and clean code organization.
 
-Install the packages by typing: `npm install`.
+---
 
-### How do I run my website to see live changes?  
+## 💻 Technologies used
 
-Type on the command line `$ npm run start` and type localhost on the browser.
+- HTML5  
+- CSS3  
+- JavaScript  
+- Bootstrap (optional)  
+- Vite (for the development environment)
 
-### Where do I write my code?  
+---
 
-It depends on the language, but you have `./src/app.js`, `./src/style.css` and `./src/index.html` respectively, you can add new `.html` as you please, just make sure to import it on the `app.js`.
+## ✨ Features
 
-> Note: remember that the JS workflow starts inside `window.onload`.
+- Random excuse generation on page load  
+- Clean and reusable function structure  
+- Output displayed both in the browser console and on the screen  
+- Improved visuals and semantic structure
+
+---
+
+## 📁 Project structure
+
+- `src/index.html` → Main page  
+- `src/app.js` → Excuse generation logic  
+- `src/style.css` → Custom styles  
+- `assets/img` → Images and assets  
+- `vite.config.js` → Vite configuration
+
+---
 
 
-## Troubleshooting
+## 🚀 How to run
 
-### I don't see my changes...
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/Nelgarpa/Generador-Excusas-Mejorado.git
 
-Everytime you change any file inside the `./src` folder the website's public URL will automatically refresh the changes (it's a process called hot deploy)
-Remember also to refresh cleaning the cache (`command+shift+r` on Mac, `control+shift+r` on PC & Linux)
+---
+   
+## 📌 Project status
+✅ Project completed as a practice exercise. Open to visual improvements or vocabulary expansion.
+---
 
-### How do I include more images in my project?
+## 🙋‍♀️ About me
+I'm a junior developer currently finishing my studies in Multiplatform Application Development (FP DAM) and enhancing my skills through a Full Stack bootcamp at 4Geeks Academy.
+📫 Connect with me on LinkedIn (https://www.linkedin.com/in/nelcy-garc%C3%ADa-56b97111b/)
 
-Add them inside the `./src/assets/img` folder and import them from any of your JS files. E.g: `import "../assets/img/rigo-baby.jpg";`
+---
 
-### How do I include more JS files?
-
-Just add the files into the src folder and import the file/variables into your app.js. E.g: `import myVar from "./file2.js"`
-
-### How do I publish the website?
-
-We have prepared the boilerplate to be compatible with [vercel](https://vercel.com/), very easy and in just one step! 
-You can read more about [deploying on vercel here](https://4geeks.com/docs/start/deploy-vercel).
-
-<!-- hide -->
-### Thank you
-
-This template was built as part of the 4Geeks Academy [Coding Bootcamp](https://4geeksacademy.com/us/coding-bootcamp) by [Alejandro Sanchez](https://twitter.com/alesanchezr) and many other contributors. Find out more about our [Full Stack Developer Course](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer), [Data Science Bootcamp](https://4geeksacademy.com/us/coding-bootcamps/datascience-machine-learning) or [CyberSecurity Bootcamp](https://4geeksacademy.com/us/coding-bootcamps/cybersecurity)
-
-You can find other templates and resources like this at the [school's GitHub page](https://github.com/4geeksacademy/).
-<!-- endhide -->
+## 📝 Credits
+This project was developed as part of the learning process at the Full Stack bootcamp at 4Geeks Academy, with personal customizations and improvements applied to design, structure, and functionality.
